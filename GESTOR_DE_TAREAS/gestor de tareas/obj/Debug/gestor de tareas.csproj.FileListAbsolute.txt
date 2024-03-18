@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\CURSO C#\NIVEL 2\GESTOR_DE_TAREAS\gestor de tareas\obj\Debug\gestor de tareas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\NIVEL 2\GESTOR_DE_TAREAS\gestor de tareas\obj\Debug\gestor de tareas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\NIVEL 2\GESTOR_DE_TAREAS\gestor de tareas\bin\Debug\gestor de tareas.exe.config
+C:\Users\User\Desktop\CURSO C#\NIVEL 2\GESTOR_DE_TAREAS\gestor de tareas\bin\Debug\gestor de tareas.exe
+C:\Users\User\Desktop\CURSO C#\NIVEL 2\GESTOR_DE_TAREAS\gestor de tareas\bin\Debug\gestor de tareas.pdb
+C:\Users\User\Desktop\CURSO C#\NIVEL 2\GESTOR_DE_TAREAS\gestor de tareas\obj\Debug\gestor de tareas.exe
+C:\Users\User\Desktop\CURSO C#\NIVEL 2\GESTOR_DE_TAREAS\gestor de tareas\obj\Debug\gestor de tareas.pdb
